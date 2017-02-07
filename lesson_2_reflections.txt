@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 -it creates a new hidden file where it's saved all the changes that you make when you do a commit, and because it will get track of everithing you do.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-in the staging area you can do all the changes you want without making a commit and having all the chages in the repository, just when you are sure of what you do you then use the commit to put it in the repository.
