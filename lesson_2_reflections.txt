@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 -in the staging area you can do all the changes you want without making a commit and having all the chages in the repository, just when you are sure of what you do you then use the commit to put it in the repository.
 How can you use the staging area to make sure you have one commit per logical change?
 -just adding one file per logical change tne commiting and then keep doing that until all the changes have been commited.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-in case of a version to be experimental and you don't want it in your main tree or if there are some changes that are being tested.
