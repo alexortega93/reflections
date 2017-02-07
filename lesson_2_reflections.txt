@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-it creates a new hidden file where it's saved all the changes that you make when you do a commit, and because it will get track of everithing you do.
