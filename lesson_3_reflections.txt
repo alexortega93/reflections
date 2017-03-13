@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 -It's more easy to know the differences between your code and the repository code
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -With a USB or something that can help with the collaboration of a program, it would be more harder to make a merge without being in the same place and would be more easier to do a project by yourself.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-If you do a change in a separate branch when you pull the repository it won't lose your changes like if you do that in your local master branch or try to merge the changes and make it more difficult for you to understand the changes.
